@@ -1,0 +1,116 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'poppins',sans-serif;
+}
+body{
+    background-color: black;
+}
+.header{
+    width: 100%;
+    background-color: black; 
+   
+}
+.head{
+    display: flex;
+    gap: 3%;
+
+}
+.logo{
+    /* background-color: red; */
+    width: 20%;
+    padding: 10px 0px;
+    padding-left: 13%;
+    display: flex;
+    justify-content: flex-end;
+}
+.img{
+    width:25%;
+    border-radius: 50%;
+
+}
+.lists{
+   width: 30%;
+    /* background-color: cyan; */
+    font-family: 'poppins';
+    
+    
+}
+.list{
+    /* width: 50%; */
+    list-style-type: none;
+    display: flex;
+   justify-content: space-between;
+   align-items: center;
+   color: white;
+   padding-top: 20px;
+   font-size: 30px;
+   
+    
+    
+}
+.contact{
+    /* background-color: blue; */
+    padding-left: 30%;
+    display: flex;
+    align-items: center;
+}
+.btn{
+    padding: 10px 30px;
+    background-color: aqua;
+    border:none;
+    text-transform: uppercase;
+    font-family: poppins;
+}
+.main{
+    width: 100%;
+    display: flex;
+    
+}
+.image{width: 90%;
+    padding:90px 10px ;
+    /* background-color: red; */
+   
+}
+.profile{
+    width: 60%;
+   
+}
+.details{
+    /* background-color: red; */
+    color: white;
+    padding-top: 10%;
+    /* font-family: 'poppins'; */
+    word-spacing: 10px;
+    font-weight: 100;
+    font-size: large;
+   
+    
+}
+h3{
+    color: aqua;
+    padding: 10px;
+    letter-spacing: 2px;
+}
+h2{
+    color: aqua;
+    padding: 10px;
+}
+
+.bt{
+    background-color: black;
+    border: 1px solid aqua;
+    color: aqua;
+    font-size: 20px;
+    margin: 10px;
+    
+}
+p{
+    padding: 20px;
+    
+}
+h1{
+    padding: 20px;
+    font-size: 50px;
+}

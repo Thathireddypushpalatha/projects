@@ -1,0 +1,66 @@
+*{
+    background-color: rgb(187, 199, 207);
+    font-family: 'poppy' 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.head{
+    display: flex;
+    
+}
+.port{
+color: rgb(67, 67, 237);
+font-size: 2rem;
+padding: 20px 0px 0px 50px;
+}
+.order{
+   display:flex;
+   flex-direction: row;
+   list-style-type: none;
+   justify-content: center;
+   padding: 20px 0px 0px 300px;
+   gap: 20px;
+   font-size: 20px;
+}
+.content{
+    display: flex;
+    padding: 30px 0px 0px 300px;
+    color: rgb(67, 67, 237);
+    gap: 10px;
+}
+
+.sec{
+    padding: 20px 0px 0px 50px;
+}
+.hello{
+    padding-top: 130px;
+    font-size: 20px;
+}
+.prem{
+color: black;
+font-size: 80px;
+}
+.design{
+     color: rgb(67, 67, 237);
+     font-size: 40px;
+}
+.nepal{
+    font-size: 20px;
+    padding-bottom: 10px;
+}
+.bu{
+   font-size: 20px;
+   background:  rgb(67, 67, 237);
+   border-radius: 5px;
+   text-align: center;
+   padding: 10px 20px;
+   border: none;
+   color: rgb(223, 206, 206);
+   
+}
+img{
+    padding-top: 50px ;
+    padding-right: 5%;
+    width: 40%;
+    /* height:     15%; */
+    background-blend-mode: overlay;
+    mix-blend-mode:darken;
+}
